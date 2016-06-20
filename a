@@ -1,5 +1,0 @@
-#include<stdio.h>;
-viod main()
-{
-Printf(“Hello word!\n”);
-}
